@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For NixieStix
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+NixieStix	KEYWORD1
+NixieTube	KEYWORD1
+BigNixie	KEYWORD1
+SmallNixie	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+draw	KEYWORD2
+init	KEYWORD2
+digitImage  KEYWORD2
+width	KEYWORD2
+height	KEYWORD2
+
